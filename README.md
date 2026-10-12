@@ -11,7 +11,7 @@
   <img alt="Cloud Analytics" src="https://img.shields.io/badge/Cloud_Analytics-B45309?style=for-the-badge">
 </p>
 
-<p align="center"><em>There's a human story behind the numbers.</em></p>
+<p align="center"><em>Remember the human behind the data. Including yourself.</em></p>
 
 ---
 
